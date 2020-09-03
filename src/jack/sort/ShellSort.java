@@ -1,4 +1,4 @@
-package jack;
+package jack.sort;
 
 /**
  * 希尔排序
